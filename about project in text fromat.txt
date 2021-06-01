@@ -1,0 +1,1 @@
+In this project, we are able to see the date and time of a particular day and also it greats us with messages like "Good Morning", "Good Evening" and so on along with changes in time.

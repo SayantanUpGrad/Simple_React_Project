@@ -1,0 +1,16 @@
+ #image{
+   display: flex;
+   justify-content: center;
+}
+
+#time{
+    padding: 15px 15px;
+    display: flexbox;
+    color: #4198c0ea;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 8px;
+    border-radius: 1px;
+    font-family: 'Orelega One', cursive;
+    
+} 
